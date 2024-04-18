@@ -2,9 +2,9 @@
 
 //|                                             ProfitFactor.mq5     |
 
-//|                        Copyright 2019, MetaQuotes Ltd.           |
+//|                        Copyright 2024, MetaQuotes Ltd.           |
 
-//|                                     http://www.metaquotes.net/   |
+//|                                     http://www.hamoon.net/   |
 
 //+------------------------------------------------------------------+
 
